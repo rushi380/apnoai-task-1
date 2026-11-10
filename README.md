@@ -5,7 +5,6 @@ A responsive, single-page website for a student-led coding community, built for 
 Built with **HTML5, CSS3, and vanilla JavaScript** only. No React, Bootstrap, Tailwind, or any other framework. No backend, no database — the site is ready to host on GitHub Pages, Vercel, Netlify, or any static host.
 
 **Live demo:** <https://my-portfolio-webpage-tld4.vercel.app/>
-**Repository:** <https://github.com/rushi380/apnoai-task-1>
 
 ---
 
